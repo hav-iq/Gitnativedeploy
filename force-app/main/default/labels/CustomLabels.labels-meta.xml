@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>HQ191Gh_Label_One</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HQ191Gh Label One</shortDescription>
+        <value>Test fixture for the 1.91 metadata-type round (GitHub batch 1).</value>
+    </labels>
+    <labels>
+        <fullName>HQ191_Label_One</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HQ191 Label One</shortDescription>
+        <value>Test fixture for the 1.91 metadata-type round (GitLab batch 1).</value>
+    </labels>
+    <labels>
+        <fullName>HQ_Sample_Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HQ Sample Label</shortDescription>
+        <value>HAV-IQ test sample</value>
+    </labels>
+</CustomLabels>
