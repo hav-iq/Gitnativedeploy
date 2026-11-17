@@ -1,0 +1,14 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HQGN_Probe.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HQGN_Probe.cls",
+    "label" : "ApexClass:HQGN_Probe"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HQGN_ProbeTest.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HQGN_ProbeTest.cls",
+    "label" : "ApexClass:HQGN_ProbeTest"
+  } ],
+  "sourceBranch" : "dev12"
+}
