@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecommendationStrategy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contextRecordType>Account</contextRecordType>
+    <label>HQ193Gh Strategy</label>
+    <recommendationLoad>
+        <label>Load</label>
+        <name>Load</name>
+        <condition>
+            <field>Name</field>
+            <operator>STARTS_WITH</operator>
+            <value>
+                <type>TEXT</type>
+                <value>HQ193Gh</value>
+            </value>
+        </condition>
+        <conditionLogic>and</conditionLogic>
+        <object>Recommendation</object>
+    </recommendationLoad>
+    <union>
+        <childNode>Load</childNode>
+        <label>Output</label>
+        <name>Output_d4a0f5a5e8a14e58b3d9f0c2e1a7b6c4</name>
+    </union>
+</RecommendationStrategy>
