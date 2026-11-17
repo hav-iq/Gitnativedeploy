@@ -1,0 +1,9 @@
+# Nothing is excluded by default.
+#
+# A pattern here does NOT make a type safer to deploy — it makes it
+# invisible. The Salesforce CLI writes nothing for an ignored type and
+# still exits 0, so the type vanishes from every retrieve and every
+# deploy with no error anywhere. Add a line only when you mean exactly
+# that, for example:
+#
+#   **/layouts/**
