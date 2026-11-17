@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>HAV-IQ 500-scale probe. Safe to delete.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>HQS Perm 5</label>
+</PermissionSet>

@@ -1,0 +1,4987 @@
+{
+ "deployment": "a06C400000JpCHAIA3",
+ "components": [
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_30",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_30.resource-meta.xml",
+    "staticresources/HQS_Res_30.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_28",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_28.resource-meta.xml",
+    "staticresources/HQS_Res_28.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_29",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_29.resource-meta.xml",
+    "staticresources/HQS_Res_29.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_01",
+   "lastModifiedDate": "2026-11-17T03:34:02.000Z",
+   "files": [
+    "staticresources/HQS_Res_01.resource-meta.xml",
+    "staticresources/HQS_Res_01.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_12",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_12.resource-meta.xml",
+    "staticresources/HQS_Res_12.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_13",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_13.resource-meta.xml",
+    "staticresources/HQS_Res_13.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_10",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_10.resource-meta.xml",
+    "staticresources/HQS_Res_10.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_11",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_11.resource-meta.xml",
+    "staticresources/HQS_Res_11.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_16",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_16.resource-meta.xml",
+    "staticresources/HQS_Res_16.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_17",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_17.resource-meta.xml",
+    "staticresources/HQS_Res_17.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_14",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_14.resource-meta.xml",
+    "staticresources/HQS_Res_14.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_15",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_15.resource-meta.xml",
+    "staticresources/HQS_Res_15.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_04",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_04.resource-meta.xml",
+    "staticresources/HQS_Res_04.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_05",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_05.resource-meta.xml",
+    "staticresources/HQS_Res_05.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_02",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_02.resource-meta.xml",
+    "staticresources/HQS_Res_02.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_03",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_03.resource-meta.xml",
+    "staticresources/HQS_Res_03.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_08",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_08.resource-meta.xml",
+    "staticresources/HQS_Res_08.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_09",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_09.resource-meta.xml",
+    "staticresources/HQS_Res_09.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_06",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_06.resource-meta.xml",
+    "staticresources/HQS_Res_06.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_07",
+   "lastModifiedDate": "2026-11-17T03:34:03.000Z",
+   "files": [
+    "staticresources/HQS_Res_07.resource-meta.xml",
+    "staticresources/HQS_Res_07.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_26",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_26.resource-meta.xml",
+    "staticresources/HQS_Res_26.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_27",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_27.resource-meta.xml",
+    "staticresources/HQS_Res_27.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_24",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_24.resource-meta.xml",
+    "staticresources/HQS_Res_24.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_25",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_25.resource-meta.xml",
+    "staticresources/HQS_Res_25.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_20",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_20.resource-meta.xml",
+    "staticresources/HQS_Res_20.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_21",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_21.resource-meta.xml",
+    "staticresources/HQS_Res_21.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_18",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_18.resource-meta.xml",
+    "staticresources/HQS_Res_18.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_19",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_19.resource-meta.xml",
+    "staticresources/HQS_Res_19.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_22",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_22.resource-meta.xml",
+    "staticresources/HQS_Res_22.txt"
+   ]
+  },
+  {
+   "type": "StaticResource",
+   "fullName": "HQS_Res_23",
+   "lastModifiedDate": "2026-11-17T03:34:04.000Z",
+   "files": [
+    "staticresources/HQS_Res_23.resource-meta.xml",
+    "staticresources/HQS_Res_23.txt"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp22",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp22/hqsCmp22.html",
+    "lwc/hqsCmp22/hqsCmp22.js",
+    "lwc/hqsCmp22/hqsCmp22.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp21",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp21/hqsCmp21.html",
+    "lwc/hqsCmp21/hqsCmp21.js",
+    "lwc/hqsCmp21/hqsCmp21.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp30",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp30/hqsCmp30.html",
+    "lwc/hqsCmp30/hqsCmp30.js",
+    "lwc/hqsCmp30/hqsCmp30.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp29",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp29/hqsCmp29.html",
+    "lwc/hqsCmp29/hqsCmp29.js",
+    "lwc/hqsCmp29/hqsCmp29.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp28",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp28/hqsCmp28.html",
+    "lwc/hqsCmp28/hqsCmp28.js",
+    "lwc/hqsCmp28/hqsCmp28.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp27",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp27/hqsCmp27.html",
+    "lwc/hqsCmp27/hqsCmp27.js",
+    "lwc/hqsCmp27/hqsCmp27.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp26",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp26/hqsCmp26.html",
+    "lwc/hqsCmp26/hqsCmp26.js",
+    "lwc/hqsCmp26/hqsCmp26.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp25",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp25/hqsCmp25.html",
+    "lwc/hqsCmp25/hqsCmp25.js",
+    "lwc/hqsCmp25/hqsCmp25.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp24",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp24/hqsCmp24.html",
+    "lwc/hqsCmp24/hqsCmp24.js",
+    "lwc/hqsCmp24/hqsCmp24.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp23",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp23/hqsCmp23.html",
+    "lwc/hqsCmp23/hqsCmp23.js",
+    "lwc/hqsCmp23/hqsCmp23.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp38",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp38/hqsCmp38.html",
+    "lwc/hqsCmp38/hqsCmp38.js",
+    "lwc/hqsCmp38/hqsCmp38.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp37",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp37/hqsCmp37.html",
+    "lwc/hqsCmp37/hqsCmp37.js",
+    "lwc/hqsCmp37/hqsCmp37.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp36",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp36/hqsCmp36.html",
+    "lwc/hqsCmp36/hqsCmp36.js",
+    "lwc/hqsCmp36/hqsCmp36.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp35",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp35/hqsCmp35.html",
+    "lwc/hqsCmp35/hqsCmp35.js",
+    "lwc/hqsCmp35/hqsCmp35.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp34",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp34/hqsCmp34.html",
+    "lwc/hqsCmp34/hqsCmp34.js",
+    "lwc/hqsCmp34/hqsCmp34.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp33",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp33/hqsCmp33.html",
+    "lwc/hqsCmp33/hqsCmp33.js",
+    "lwc/hqsCmp33/hqsCmp33.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp32",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp32/hqsCmp32.html",
+    "lwc/hqsCmp32/hqsCmp32.js",
+    "lwc/hqsCmp32/hqsCmp32.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp31",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp31/hqsCmp31.html",
+    "lwc/hqsCmp31/hqsCmp31.js",
+    "lwc/hqsCmp31/hqsCmp31.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp40",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp40/hqsCmp40.html",
+    "lwc/hqsCmp40/hqsCmp40.js",
+    "lwc/hqsCmp40/hqsCmp40.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp39",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp39/hqsCmp39.html",
+    "lwc/hqsCmp39/hqsCmp39.js",
+    "lwc/hqsCmp39/hqsCmp39.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp04",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp04/hqsCmp04.html",
+    "lwc/hqsCmp04/hqsCmp04.js",
+    "lwc/hqsCmp04/hqsCmp04.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp03",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp03/hqsCmp03.html",
+    "lwc/hqsCmp03/hqsCmp03.js",
+    "lwc/hqsCmp03/hqsCmp03.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp02",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp02/hqsCmp02.html",
+    "lwc/hqsCmp02/hqsCmp02.js",
+    "lwc/hqsCmp02/hqsCmp02.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp01",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp01/hqsCmp01.html",
+    "lwc/hqsCmp01/hqsCmp01.js",
+    "lwc/hqsCmp01/hqsCmp01.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp12",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp12/hqsCmp12.html",
+    "lwc/hqsCmp12/hqsCmp12.js",
+    "lwc/hqsCmp12/hqsCmp12.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp11",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp11/hqsCmp11.html",
+    "lwc/hqsCmp11/hqsCmp11.js",
+    "lwc/hqsCmp11/hqsCmp11.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp10",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp10/hqsCmp10.html",
+    "lwc/hqsCmp10/hqsCmp10.js",
+    "lwc/hqsCmp10/hqsCmp10.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp09",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp09/hqsCmp09.html",
+    "lwc/hqsCmp09/hqsCmp09.js",
+    "lwc/hqsCmp09/hqsCmp09.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp08",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp08/hqsCmp08.html",
+    "lwc/hqsCmp08/hqsCmp08.js",
+    "lwc/hqsCmp08/hqsCmp08.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp07",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp07/hqsCmp07.html",
+    "lwc/hqsCmp07/hqsCmp07.js",
+    "lwc/hqsCmp07/hqsCmp07.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp06",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp06/hqsCmp06.html",
+    "lwc/hqsCmp06/hqsCmp06.js",
+    "lwc/hqsCmp06/hqsCmp06.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp05",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp05/hqsCmp05.html",
+    "lwc/hqsCmp05/hqsCmp05.js",
+    "lwc/hqsCmp05/hqsCmp05.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp20",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp20/hqsCmp20.html",
+    "lwc/hqsCmp20/hqsCmp20.js",
+    "lwc/hqsCmp20/hqsCmp20.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp19",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp19/hqsCmp19.html",
+    "lwc/hqsCmp19/hqsCmp19.js",
+    "lwc/hqsCmp19/hqsCmp19.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp18",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp18/hqsCmp18.html",
+    "lwc/hqsCmp18/hqsCmp18.js",
+    "lwc/hqsCmp18/hqsCmp18.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp17",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp17/hqsCmp17.html",
+    "lwc/hqsCmp17/hqsCmp17.js",
+    "lwc/hqsCmp17/hqsCmp17.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp16",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp16/hqsCmp16.html",
+    "lwc/hqsCmp16/hqsCmp16.js",
+    "lwc/hqsCmp16/hqsCmp16.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp15",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp15/hqsCmp15.html",
+    "lwc/hqsCmp15/hqsCmp15.js",
+    "lwc/hqsCmp15/hqsCmp15.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp14",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp14/hqsCmp14.html",
+    "lwc/hqsCmp14/hqsCmp14.js",
+    "lwc/hqsCmp14/hqsCmp14.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp13",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqsCmp13/hqsCmp13.html",
+    "lwc/hqsCmp13/hqsCmp13.js",
+    "lwc/hqsCmp13/hqsCmp13.js-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_35",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_35.page",
+    "pages/HQS_Page_35.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_36",
+   "lastModifiedDate": "2026-11-17T03:34:08.000Z",
+   "files": [
+    "pages/HQS_Page_36.page",
+    "pages/HQS_Page_36.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_34",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_34.page",
+    "pages/HQS_Page_34.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_39",
+   "lastModifiedDate": "2026-11-17T03:34:08.000Z",
+   "files": [
+    "pages/HQS_Page_39.page",
+    "pages/HQS_Page_39.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_01",
+   "lastModifiedDate": "2026-11-17T03:34:06.000Z",
+   "files": [
+    "pages/HQS_Page_01.page",
+    "pages/HQS_Page_01.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_40",
+   "lastModifiedDate": "2026-11-17T03:34:08.000Z",
+   "files": [
+    "pages/HQS_Page_40.page",
+    "pages/HQS_Page_40.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_02",
+   "lastModifiedDate": "2026-11-17T03:34:06.000Z",
+   "files": [
+    "pages/HQS_Page_02.page",
+    "pages/HQS_Page_02.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_37",
+   "lastModifiedDate": "2026-11-17T03:34:08.000Z",
+   "files": [
+    "pages/HQS_Page_37.page",
+    "pages/HQS_Page_37.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_38",
+   "lastModifiedDate": "2026-11-17T03:34:08.000Z",
+   "files": [
+    "pages/HQS_Page_38.page",
+    "pages/HQS_Page_38.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_05",
+   "lastModifiedDate": "2026-11-17T03:34:06.000Z",
+   "files": [
+    "pages/HQS_Page_05.page",
+    "pages/HQS_Page_05.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_06",
+   "lastModifiedDate": "2026-11-17T03:34:06.000Z",
+   "files": [
+    "pages/HQS_Page_06.page",
+    "pages/HQS_Page_06.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_03",
+   "lastModifiedDate": "2026-11-17T03:34:06.000Z",
+   "files": [
+    "pages/HQS_Page_03.page",
+    "pages/HQS_Page_03.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_04",
+   "lastModifiedDate": "2026-11-17T03:34:06.000Z",
+   "files": [
+    "pages/HQS_Page_04.page",
+    "pages/HQS_Page_04.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_07",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_07.page",
+    "pages/HQS_Page_07.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_08",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_08.page",
+    "pages/HQS_Page_08.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_11",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_11.page",
+    "pages/HQS_Page_11.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_12",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_12.page",
+    "pages/HQS_Page_12.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_09",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_09.page",
+    "pages/HQS_Page_09.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_10",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_10.page",
+    "pages/HQS_Page_10.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_15",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_15.page",
+    "pages/HQS_Page_15.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_16",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_16.page",
+    "pages/HQS_Page_16.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_13",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_13.page",
+    "pages/HQS_Page_13.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_14",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_14.page",
+    "pages/HQS_Page_14.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_19",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_19.page",
+    "pages/HQS_Page_19.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_20",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_20.page",
+    "pages/HQS_Page_20.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_17",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_17.page",
+    "pages/HQS_Page_17.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_18",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_18.page",
+    "pages/HQS_Page_18.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_23",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_23.page",
+    "pages/HQS_Page_23.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_24",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_24.page",
+    "pages/HQS_Page_24.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_21",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_21.page",
+    "pages/HQS_Page_21.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_22",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_22.page",
+    "pages/HQS_Page_22.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_27",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_27.page",
+    "pages/HQS_Page_27.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_28",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_28.page",
+    "pages/HQS_Page_28.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_25",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_25.page",
+    "pages/HQS_Page_25.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_26",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_26.page",
+    "pages/HQS_Page_26.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_31",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_31.page",
+    "pages/HQS_Page_31.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_32",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_32.page",
+    "pages/HQS_Page_32.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_29",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_29.page",
+    "pages/HQS_Page_29.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_30",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_30.page",
+    "pages/HQS_Page_30.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQS_Page_33",
+   "lastModifiedDate": "2026-11-17T03:34:07.000Z",
+   "files": [
+    "pages/HQS_Page_33.page",
+    "pages/HQS_Page_33.page-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F01__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F01__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F02__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F02__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F03__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F03__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F04__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F04__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F05__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F05__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F06__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F06__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F07__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F07__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F08__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F08__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F09__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F09__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F10__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F10__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F11__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F11__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F12__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F12__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F13__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F13__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F14__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F14__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F15__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F15__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F16__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F16__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F17__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F17__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F18__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F18__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F19__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F19__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F20__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F20__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F21__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F21__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F22__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F22__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F23__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F23__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F24__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F24__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F25__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F25__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F26__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F26__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F27__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F27__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F28__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F28__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F29__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F29__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F30__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F30__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F31__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F31__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F32__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F32__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F33__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F33__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F34__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F34__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F35__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F35__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F36__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F36__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F37__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F37__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F38__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F38__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F39__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F39__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F40__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F40__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F41__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F41__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F42__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F42__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F43__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F43__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F44__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F44__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F45__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F45__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F46__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F46__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F47__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F47__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F48__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F48__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F49__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F49__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj3__c.F50__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj3__c/fields/F50__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "HQS_Obj3__c",
+   "lastModifiedDate": "2026-11-17T03:34:23.000Z",
+   "files": [
+    "objects/HQS_Obj3__c/HQS_Obj3__c.object-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F01__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F01__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F02__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F02__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F03__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F03__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F04__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F04__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F05__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F05__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F06__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F06__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F07__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F07__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F08__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F08__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F09__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F09__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F10__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F10__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F11__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F11__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F12__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F12__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F13__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F13__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F14__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F14__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F15__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F15__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F16__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F16__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F17__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F17__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F18__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F18__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F19__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F19__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F20__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F20__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F21__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F21__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F22__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F22__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F23__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F23__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F24__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F24__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F25__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F25__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F26__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F26__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F27__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F27__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F28__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F28__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F29__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F29__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F30__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F30__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F31__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F31__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F32__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F32__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F33__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F33__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F34__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F34__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F35__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F35__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F36__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F36__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F37__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F37__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F38__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F38__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F39__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F39__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F40__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F40__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F41__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F41__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F42__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F42__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F43__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F43__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F44__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F44__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F45__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F45__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F46__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F46__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F47__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F47__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F48__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F48__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F49__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F49__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj2__c.F50__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj2__c/fields/F50__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "HQS_Obj2__c",
+   "lastModifiedDate": "2026-11-17T03:34:23.000Z",
+   "files": [
+    "objects/HQS_Obj2__c/HQS_Obj2__c.object-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F01__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F01__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F02__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F02__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F03__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F03__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F04__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F04__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F05__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F05__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F06__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F06__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F07__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F07__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F08__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F08__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F09__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F09__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F10__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F10__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F11__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F11__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F12__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F12__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F13__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F13__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F14__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F14__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F15__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F15__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F16__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F16__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F17__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F17__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F18__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F18__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F19__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F19__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F20__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F20__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F21__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F21__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F22__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F22__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F23__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F23__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F24__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F24__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F25__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F25__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F26__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F26__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F27__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F27__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F28__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F28__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F29__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F29__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F30__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F30__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F31__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F31__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F32__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F32__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F33__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F33__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F34__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F34__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F35__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F35__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F36__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F36__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F37__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F37__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F38__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F38__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F39__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F39__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F40__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F40__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F41__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F41__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F42__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F42__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F43__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F43__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F44__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F44__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F45__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F45__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F46__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F46__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F47__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F47__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F48__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F48__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F49__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F49__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj4__c.F50__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj4__c/fields/F50__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "HQS_Obj4__c",
+   "lastModifiedDate": "2026-11-17T03:34:24.000Z",
+   "files": [
+    "objects/HQS_Obj4__c/HQS_Obj4__c.object-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F01__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F01__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F02__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F02__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F03__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F03__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F04__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F04__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F05__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F05__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F06__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F06__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F07__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F07__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F08__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F08__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F09__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F09__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F10__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F10__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F11__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F11__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F12__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F12__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F13__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F13__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F14__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F14__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F15__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F15__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F16__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F16__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F17__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F17__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F18__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F18__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F19__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F19__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F20__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F20__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F21__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F21__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F22__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F22__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F23__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F23__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F24__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F24__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F25__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F25__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F26__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F26__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F27__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F27__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F28__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F28__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F29__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F29__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F30__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F30__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F31__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F31__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F32__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F32__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F33__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F33__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F34__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F34__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F35__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F35__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F36__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F36__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F37__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F37__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F38__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F38__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F39__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F39__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F40__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F40__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F41__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F41__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F42__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F42__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F43__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F43__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F44__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F44__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F45__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F45__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F46__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F46__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F47__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F47__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F48__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F48__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F49__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F49__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQS_Obj1__c.F50__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQS_Obj1__c/fields/F50__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "HQS_Obj1__c",
+   "lastModifiedDate": "2026-11-17T03:34:23.000Z",
+   "files": [
+    "objects/HQS_Obj1__c/HQS_Obj1__c.object-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_098",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_098.cls",
+    "classes/HQS_Svc_098.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_098Test",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_098Test.cls",
+    "classes/HQS_Svc_098Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_097",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_097.cls",
+    "classes/HQS_Svc_097.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_097Test",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_097Test.cls",
+    "classes/HQS_Svc_097Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_100",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_100.cls",
+    "classes/HQS_Svc_100.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_100Test",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_100Test.cls",
+    "classes/HQS_Svc_100Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_099",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_099.cls",
+    "classes/HQS_Svc_099.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_099Test",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_099Test.cls",
+    "classes/HQS_Svc_099Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_096",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_096.cls",
+    "classes/HQS_Svc_096.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_096Test",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_096Test.cls",
+    "classes/HQS_Svc_096Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_095Test",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_095Test.cls",
+    "classes/HQS_Svc_095Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_093",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_093.cls",
+    "classes/HQS_Svc_093.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_074Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_074Test.cls",
+    "classes/HQS_Svc_074Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_075",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_075.cls",
+    "classes/HQS_Svc_075.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_093Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_093Test.cls",
+    "classes/HQS_Svc_093Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_092",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_092.cls",
+    "classes/HQS_Svc_092.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_073Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_073Test.cls",
+    "classes/HQS_Svc_073Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_074",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_074.cls",
+    "classes/HQS_Svc_074.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_092Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_092Test.cls",
+    "classes/HQS_Svc_092Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_095",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_095.cls",
+    "classes/HQS_Svc_095.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_076Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_076Test.cls",
+    "classes/HQS_Svc_076Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_077",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_077.cls",
+    "classes/HQS_Svc_077.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_075Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_075Test.cls",
+    "classes/HQS_Svc_075Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_094",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_094.cls",
+    "classes/HQS_Svc_094.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_076",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_076.cls",
+    "classes/HQS_Svc_076.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_094Test",
+   "lastModifiedDate": "2026-11-17T03:34:19.000Z",
+   "files": [
+    "classes/HQS_Svc_094Test.cls",
+    "classes/HQS_Svc_094Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_089",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_089.cls",
+    "classes/HQS_Svc_089.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_070Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_070Test.cls",
+    "classes/HQS_Svc_070Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_071",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_071.cls",
+    "classes/HQS_Svc_071.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_089Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_089Test.cls",
+    "classes/HQS_Svc_089Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_088",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_088.cls",
+    "classes/HQS_Svc_088.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_069Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_069Test.cls",
+    "classes/HQS_Svc_069Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_070",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_070.cls",
+    "classes/HQS_Svc_070.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_088Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_088Test.cls",
+    "classes/HQS_Svc_088Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_091",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_091.cls",
+    "classes/HQS_Svc_091.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_072Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_072Test.cls",
+    "classes/HQS_Svc_072Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_091Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_091Test.cls",
+    "classes/HQS_Svc_091Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_073",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_073.cls",
+    "classes/HQS_Svc_073.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_090",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_090.cls",
+    "classes/HQS_Svc_090.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_071Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_071Test.cls",
+    "classes/HQS_Svc_071Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_072",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_072.cls",
+    "classes/HQS_Svc_072.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_090Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_090Test.cls",
+    "classes/HQS_Svc_090Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_085",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_085.cls",
+    "classes/HQS_Svc_085.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_066Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_066Test.cls",
+    "classes/HQS_Svc_066Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_067",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_067.cls",
+    "classes/HQS_Svc_067.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_085Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_085Test.cls",
+    "classes/HQS_Svc_085Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_084",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_084.cls",
+    "classes/HQS_Svc_084.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_065Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_065Test.cls",
+    "classes/HQS_Svc_065Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_066",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_066.cls",
+    "classes/HQS_Svc_066.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_084Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_084Test.cls",
+    "classes/HQS_Svc_084Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_087",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_087.cls",
+    "classes/HQS_Svc_087.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_068Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_068Test.cls",
+    "classes/HQS_Svc_068Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_087Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_087Test.cls",
+    "classes/HQS_Svc_087Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_069",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_069.cls",
+    "classes/HQS_Svc_069.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_067Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_067Test.cls",
+    "classes/HQS_Svc_067Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_086",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_086.cls",
+    "classes/HQS_Svc_086.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_068",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_068.cls",
+    "classes/HQS_Svc_068.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_086Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_086Test.cls",
+    "classes/HQS_Svc_086Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_046",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_046.cls",
+    "classes/HQS_Svc_046.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_083",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_083.cls",
+    "classes/HQS_Svc_083.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_064Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_064Test.cls",
+    "classes/HQS_Svc_064Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_083Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_083Test.cls",
+    "classes/HQS_Svc_083Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_065",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_065.cls",
+    "classes/HQS_Svc_065.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_082Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_082Test.cls",
+    "classes/HQS_Svc_082Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_080Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_080Test.cls",
+    "classes/HQS_Svc_080Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_043",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_043.cls",
+    "classes/HQS_Svc_043.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_061Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_061Test.cls",
+    "classes/HQS_Svc_061Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_081",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_081.cls",
+    "classes/HQS_Svc_081.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_062",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_062.cls",
+    "classes/HQS_Svc_062.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_043Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_043Test.cls",
+    "classes/HQS_Svc_043Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_060Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_060Test.cls",
+    "classes/HQS_Svc_060Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_042",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_042.cls",
+    "classes/HQS_Svc_042.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_079Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_079Test.cls",
+    "classes/HQS_Svc_079Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_080",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_080.cls",
+    "classes/HQS_Svc_080.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_061",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_061.cls",
+    "classes/HQS_Svc_061.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_042Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_042Test.cls",
+    "classes/HQS_Svc_042Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_063Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_063Test.cls",
+    "classes/HQS_Svc_063Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_045",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_045.cls",
+    "classes/HQS_Svc_045.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_064",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_064.cls",
+    "classes/HQS_Svc_064.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_045Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_045Test.cls",
+    "classes/HQS_Svc_045Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_044",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_044.cls",
+    "classes/HQS_Svc_044.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_081Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_081Test.cls",
+    "classes/HQS_Svc_081Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_062Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_062Test.cls",
+    "classes/HQS_Svc_062Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_044Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_044Test.cls",
+    "classes/HQS_Svc_044Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_082",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_082.cls",
+    "classes/HQS_Svc_082.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_063",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_063.cls",
+    "classes/HQS_Svc_063.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_039",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_039.cls",
+    "classes/HQS_Svc_039.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_057Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_057Test.cls",
+    "classes/HQS_Svc_057Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_039Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_039Test.cls",
+    "classes/HQS_Svc_039Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_058",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_058.cls",
+    "classes/HQS_Svc_058.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_038",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_038.cls",
+    "classes/HQS_Svc_038.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_056Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_056Test.cls",
+    "classes/HQS_Svc_056Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_057",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_057.cls",
+    "classes/HQS_Svc_057.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_038Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_038Test.cls",
+    "classes/HQS_Svc_038Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_059Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_059Test.cls",
+    "classes/HQS_Svc_059Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_078Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_078Test.cls",
+    "classes/HQS_Svc_078Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_041",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_041.cls",
+    "classes/HQS_Svc_041.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_079",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_079.cls",
+    "classes/HQS_Svc_079.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_060",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_060.cls",
+    "classes/HQS_Svc_060.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_041Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_041Test.cls",
+    "classes/HQS_Svc_041Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_058Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_058Test.cls",
+    "classes/HQS_Svc_058Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_040",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_040.cls",
+    "classes/HQS_Svc_040.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_077Test",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_077Test.cls",
+    "classes/HQS_Svc_077Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_040Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_040Test.cls",
+    "classes/HQS_Svc_040Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_078",
+   "lastModifiedDate": "2026-11-17T03:34:17.000Z",
+   "files": [
+    "classes/HQS_Svc_078.cls",
+    "classes/HQS_Svc_078.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_059",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_059.cls",
+    "classes/HQS_Svc_059.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_053Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_053Test.cls",
+    "classes/HQS_Svc_053Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_035",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_035.cls",
+    "classes/HQS_Svc_035.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_035Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_035Test.cls",
+    "classes/HQS_Svc_035Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_054",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_054.cls",
+    "classes/HQS_Svc_054.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_052Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_052Test.cls",
+    "classes/HQS_Svc_052Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_034",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_034.cls",
+    "classes/HQS_Svc_034.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_053",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_053.cls",
+    "classes/HQS_Svc_053.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_034Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_034Test.cls",
+    "classes/HQS_Svc_034Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_037",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_037.cls",
+    "classes/HQS_Svc_037.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_055Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_055Test.cls",
+    "classes/HQS_Svc_055Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_056",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_056.cls",
+    "classes/HQS_Svc_056.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_037Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_037Test.cls",
+    "classes/HQS_Svc_037Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_036",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_036.cls",
+    "classes/HQS_Svc_036.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_054Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_054Test.cls",
+    "classes/HQS_Svc_054Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_055",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_055.cls",
+    "classes/HQS_Svc_055.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_036Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_036Test.cls",
+    "classes/HQS_Svc_036Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_033",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_033.cls",
+    "classes/HQS_Svc_033.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_014Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_014Test.cls",
+    "classes/HQS_Svc_014Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_015",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_015.cls",
+    "classes/HQS_Svc_015.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_051Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_051Test.cls",
+    "classes/HQS_Svc_051Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_052",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_052.cls",
+    "classes/HQS_Svc_052.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_033Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_033Test.cls",
+    "classes/HQS_Svc_033Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_049",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_049.cls",
+    "classes/HQS_Svc_049.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_030",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_030.cls",
+    "classes/HQS_Svc_030.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_011Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_011Test.cls",
+    "classes/HQS_Svc_011Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_049Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_049Test.cls",
+    "classes/HQS_Svc_049Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_012",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_012.cls",
+    "classes/HQS_Svc_012.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_030Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_030Test.cls",
+    "classes/HQS_Svc_030Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_048",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_048.cls",
+    "classes/HQS_Svc_048.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_010Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_010Test.cls",
+    "classes/HQS_Svc_010Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_029",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_029.cls",
+    "classes/HQS_Svc_029.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_048Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_048Test.cls",
+    "classes/HQS_Svc_048Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_011",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_011.cls",
+    "classes/HQS_Svc_011.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_029Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_029Test.cls",
+    "classes/HQS_Svc_029Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_051",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_051.cls",
+    "classes/HQS_Svc_051.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_032",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_032.cls",
+    "classes/HQS_Svc_032.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_013Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_013Test.cls",
+    "classes/HQS_Svc_013Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_032Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_032Test.cls",
+    "classes/HQS_Svc_032Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_014",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_014.cls",
+    "classes/HQS_Svc_014.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_012Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_012Test.cls",
+    "classes/HQS_Svc_012Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_050",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_050.cls",
+    "classes/HQS_Svc_050.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_031",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_031.cls",
+    "classes/HQS_Svc_031.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_031Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_031Test.cls",
+    "classes/HQS_Svc_031Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_013",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_013.cls",
+    "classes/HQS_Svc_013.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_050Test",
+   "lastModifiedDate": "2026-11-17T03:34:16.000Z",
+   "files": [
+    "classes/HQS_Svc_050Test.cls",
+    "classes/HQS_Svc_050Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_026",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_026.cls",
+    "classes/HQS_Svc_026.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_007Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_007Test.cls",
+    "classes/HQS_Svc_007Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_008",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_008.cls",
+    "classes/HQS_Svc_008.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_026Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_026Test.cls",
+    "classes/HQS_Svc_026Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_025",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_025.cls",
+    "classes/HQS_Svc_025.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_006Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_006Test.cls",
+    "classes/HQS_Svc_006Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_025Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_025Test.cls",
+    "classes/HQS_Svc_025Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_007",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_007.cls",
+    "classes/HQS_Svc_007.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_047",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_047.cls",
+    "classes/HQS_Svc_047.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_009Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_009Test.cls",
+    "classes/HQS_Svc_009Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_028",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_028.cls",
+    "classes/HQS_Svc_028.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_047Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_047Test.cls",
+    "classes/HQS_Svc_047Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_010",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_010.cls",
+    "classes/HQS_Svc_010.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_028Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_028Test.cls",
+    "classes/HQS_Svc_028Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_008Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_008Test.cls",
+    "classes/HQS_Svc_008Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_027",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_027.cls",
+    "classes/HQS_Svc_027.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_009",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_009.cls",
+    "classes/HQS_Svc_009.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_046Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_046Test.cls",
+    "classes/HQS_Svc_046Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_027Test",
+   "lastModifiedDate": "2026-11-17T03:34:15.000Z",
+   "files": [
+    "classes/HQS_Svc_027Test.cls",
+    "classes/HQS_Svc_027Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_022",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_022.cls",
+    "classes/HQS_Svc_022.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_003Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_003Test.cls",
+    "classes/HQS_Svc_003Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_004",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_004.cls",
+    "classes/HQS_Svc_004.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_022Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_022Test.cls",
+    "classes/HQS_Svc_022Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_021",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_021.cls",
+    "classes/HQS_Svc_021.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_002Test",
+   "lastModifiedDate": "2026-11-17T03:34:13.000Z",
+   "files": [
+    "classes/HQS_Svc_002Test.cls",
+    "classes/HQS_Svc_002Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_021Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_021Test.cls",
+    "classes/HQS_Svc_021Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_003",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_003.cls",
+    "classes/HQS_Svc_003.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_005Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_005Test.cls",
+    "classes/HQS_Svc_005Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_024",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_024.cls",
+    "classes/HQS_Svc_024.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_024Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_024Test.cls",
+    "classes/HQS_Svc_024Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_006",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_006.cls",
+    "classes/HQS_Svc_006.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_023",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_023.cls",
+    "classes/HQS_Svc_023.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_004Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_004Test.cls",
+    "classes/HQS_Svc_004Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_005",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_005.cls",
+    "classes/HQS_Svc_005.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_023Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_023Test.cls",
+    "classes/HQS_Svc_023Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_001Test",
+   "lastModifiedDate": "2026-11-17T03:34:13.000Z",
+   "files": [
+    "classes/HQS_Svc_001Test.cls",
+    "classes/HQS_Svc_001Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_002",
+   "lastModifiedDate": "2026-11-17T03:34:13.000Z",
+   "files": [
+    "classes/HQS_Svc_002.cls",
+    "classes/HQS_Svc_002.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_020Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_020Test.cls",
+    "classes/HQS_Svc_020Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_017Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_017Test.cls",
+    "classes/HQS_Svc_017Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_018",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_018.cls",
+    "classes/HQS_Svc_018.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_016Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_016Test.cls",
+    "classes/HQS_Svc_016Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_017",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_017.cls",
+    "classes/HQS_Svc_017.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_019Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_019Test.cls",
+    "classes/HQS_Svc_019Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_020",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_020.cls",
+    "classes/HQS_Svc_020.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_001",
+   "lastModifiedDate": "2026-11-17T03:34:13.000Z",
+   "files": [
+    "classes/HQS_Svc_001.cls",
+    "classes/HQS_Svc_001.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_018Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_018Test.cls",
+    "classes/HQS_Svc_018Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_019",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_019.cls",
+    "classes/HQS_Svc_019.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_015Test",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_015Test.cls",
+    "classes/HQS_Svc_015Test.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQS_Svc_016",
+   "lastModifiedDate": "2026-11-17T03:34:14.000Z",
+   "files": [
+    "classes/HQS_Svc_016.cls",
+    "classes/HQS_Svc_016.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "PermissionSet",
+   "fullName": "HQS_Perm_4",
+   "lastModifiedDate": "2026-11-17T03:34:22.000Z",
+   "files": [
+    "permissionsets/HQS_Perm_4.permissionset-meta.xml"
+   ]
+  },
+  {
+   "type": "PermissionSet",
+   "fullName": "HQS_Perm_3",
+   "lastModifiedDate": "2026-11-17T03:34:22.000Z",
+   "files": [
+    "permissionsets/HQS_Perm_3.permissionset-meta.xml"
+   ]
+  },
+  {
+   "type": "PermissionSet",
+   "fullName": "HQS_Perm_2",
+   "lastModifiedDate": "2026-11-17T03:34:21.000Z",
+   "files": [
+    "permissionsets/HQS_Perm_2.permissionset-meta.xml"
+   ]
+  },
+  {
+   "type": "PermissionSet",
+   "fullName": "HQS_Perm_1",
+   "lastModifiedDate": "2026-11-17T03:34:21.000Z",
+   "files": [
+    "permissionsets/HQS_Perm_1.permissionset-meta.xml"
+   ]
+  },
+  {
+   "type": "PermissionSet",
+   "fullName": "HQS_Perm_5",
+   "lastModifiedDate": "2026-11-17T03:34:22.000Z",
+   "files": [
+    "permissionsets/HQS_Perm_5.permissionset-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp22/hqsCmp22.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp22/hqsCmp22.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp21/hqsCmp21.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp21/hqsCmp21.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp30/hqsCmp30.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp30/hqsCmp30.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp29/hqsCmp29.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp29/hqsCmp29.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp28/hqsCmp28.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp28/hqsCmp28.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp27/hqsCmp27.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp27/hqsCmp27.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp26/hqsCmp26.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp26/hqsCmp26.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp25/hqsCmp25.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp25/hqsCmp25.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp24/hqsCmp24.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp24/hqsCmp24.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp23/hqsCmp23.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp23/hqsCmp23.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp38/hqsCmp38.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp38/hqsCmp38.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp37/hqsCmp37.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp37/hqsCmp37.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp36/hqsCmp36.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp36/hqsCmp36.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp35/hqsCmp35.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp35/hqsCmp35.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp34/hqsCmp34.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp34/hqsCmp34.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp33/hqsCmp33.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp33/hqsCmp33.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp32/hqsCmp32.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp32/hqsCmp32.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp31/hqsCmp31.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp31/hqsCmp31.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp40/hqsCmp40.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp40/hqsCmp40.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp39/hqsCmp39.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp39/hqsCmp39.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp04/hqsCmp04.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp04/hqsCmp04.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp03/hqsCmp03.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp03/hqsCmp03.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp02/hqsCmp02.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp02/hqsCmp02.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp01/hqsCmp01.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp01/hqsCmp01.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp12/hqsCmp12.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp12/hqsCmp12.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp11/hqsCmp11.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp11/hqsCmp11.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp10/hqsCmp10.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp10/hqsCmp10.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp09/hqsCmp09.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp09/hqsCmp09.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp08/hqsCmp08.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp08/hqsCmp08.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp07/hqsCmp07.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp07/hqsCmp07.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp06/hqsCmp06.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp06/hqsCmp06.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp05/hqsCmp05.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp05/hqsCmp05.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp20/hqsCmp20.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp20/hqsCmp20.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp19/hqsCmp19.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp19/hqsCmp19.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp18/hqsCmp18.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp18/hqsCmp18.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp17/hqsCmp17.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp17/hqsCmp17.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp16/hqsCmp16.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp16/hqsCmp16.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp15/hqsCmp15.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp15/hqsCmp15.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp14/hqsCmp14.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp14/hqsCmp14.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp13/hqsCmp13.js",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqsCmp13/hqsCmp13.html",
+   "lastModifiedDate": "2026-11-17T03:34:05.000Z",
+   "files": []
+  }
+ ]
+}
