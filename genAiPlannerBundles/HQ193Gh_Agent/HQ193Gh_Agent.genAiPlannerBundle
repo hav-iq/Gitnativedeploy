@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlannerBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Type round 1.91 fixture.</description>
+    <genAiPlugins>
+        <genAiPluginName>HQ193Gh_Topic</genAiPluginName>
+    </genAiPlugins>
+    <masterLabel>HQ193Gh Agent</masterLabel>
+    <plannerType>AiCopilot__ReAct</plannerType>
+</GenAiPlannerBundle>

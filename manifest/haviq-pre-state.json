@@ -1,0 +1,829 @@
+{
+ "deployment": "a06C400000Jp9crIAB",
+ "components": [
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqProbeLwc",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hqProbeLwc/hqProbeLwc.html",
+    "lwc/hqProbeLwc/hqProbeLwc.js",
+    "lwc/hqProbeLwc/hqProbeLwc.js-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ191YPage",
+   "lastModifiedDate": "2026-11-09T00:36:33.000Z",
+   "files": [
+    "pages/HQ191YPage.page",
+    "pages/HQ191YPage.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ExternalServiceRegistration",
+   "fullName": "HQ193GhSvc",
+   "lastModifiedDate": "2026-11-09T10:00:53.000Z",
+   "files": [
+    "externalServiceRegistrations/HQ193GhSvc.externalServiceRegistration-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_02__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_02__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_03__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_03__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_04__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_04__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_05__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_05__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_06__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_06__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_07__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_07__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_08__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_08__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_09__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_09__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_10__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_10__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_11__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_11__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_12__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_12__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_13__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_13__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_14__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_14__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_15__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_15__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_16__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_16__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_17__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_17__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_18__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_18__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_19__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_19__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_20__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_20__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_21__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_21__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_22__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_22__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_23__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_23__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_24__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_24__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_25__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_25__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_26__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_26__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_27__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_27__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_28__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_28__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_01__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_01__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_29__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_29__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_30__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_30__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_31__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_31__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_32__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_32__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_33__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_33__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_34__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_34__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_35__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_35__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_36__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_36__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_37__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_37__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_38__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_38__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_39__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_39__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_40__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_40__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_41__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_41__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_42__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_42__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_43__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_43__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_44__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_44__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_45__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_45__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_46__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_46__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_47__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_47__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_48__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_48__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomField",
+   "fullName": "HQ100_Order__c.Field_49__c",
+   "lastModifiedDate": null,
+   "files": [
+    "objects/HQ100_Order__c/fields/Field_49__c.field-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObject",
+   "fullName": "HQ100_Order__c",
+   "lastModifiedDate": "2026-11-17T03:15:16.000Z",
+   "files": [
+    "objects/HQ100_Order__c/HQ100_Order__c.object-meta.xml"
+   ]
+  },
+  {
+   "type": "Layout",
+   "fullName": "HQ100_Order__c-HQ100 Order Layout",
+   "lastModifiedDate": "2026-11-17T03:15:12.000Z",
+   "files": [
+    "layouts/HQ100_Order__c-HQ100 Order Layout.layout-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomApplicationComponent",
+   "fullName": "HQ194Gh_Comp",
+   "lastModifiedDate": "2026-11-09T10:53:43.000Z",
+   "files": [
+    "customApplicationComponents/HQ194Gh_Comp.customApplicationComponent-meta.xml"
+   ]
+  },
+  {
+   "type": "Flow",
+   "fullName": "HQ190_GlWelcome",
+   "lastModifiedDate": "2026-11-08T07:46:08.000Z",
+   "files": [
+    "flows/HQ190_GlWelcome.flow-meta.xml"
+   ]
+  },
+  {
+   "type": "FlowDefinition",
+   "fullName": "HQ190_GlWelcome",
+   "lastModifiedDate": "2026-11-08T07:46:08.000Z",
+   "files": [
+    "flowDefinitions/HQ190_GlWelcome.flowDefinition-meta.xml"
+   ]
+  },
+  {
+   "type": "FlowTest",
+   "fullName": "HQ193Gh_Flow_Test",
+   "lastModifiedDate": "2026-11-09T10:04:40.000Z",
+   "files": [
+    "flowtests/HQ193Gh_Flow_Test.flowtest-meta.xml"
+   ]
+  },
+  {
+   "type": "Workflow",
+   "fullName": "HQ189_Gh_Test__c",
+   "lastModifiedDate": "2026-11-09T01:13:53.000Z",
+   "files": [
+    "workflows/HQ189_Gh_Test__c.workflow-meta.xml"
+   ]
+  },
+  {
+   "type": "PostTemplate",
+   "fullName": "Account.HQ193Gh_Post",
+   "lastModifiedDate": "2026-11-09T10:04:40.000Z",
+   "files": [
+    "postTemplates/Account.HQ193Gh_Post.postTemplate-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomObjectTranslation",
+   "fullName": "HQ100_Order__c-en_US",
+   "lastModifiedDate": "2026-11-17T06:57:24.352Z",
+   "files": [
+    "objectTranslations/HQ100_Order__c-en_US/Field_01__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_02__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_03__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_04__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_05__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_06__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_07__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_08__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_09__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_10__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_11__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_12__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_13__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_14__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_15__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_16__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_17__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_18__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_19__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_20__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_21__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_22__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_23__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_24__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_25__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_26__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_27__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_28__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_29__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_30__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_31__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_32__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_33__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_34__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_35__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_36__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_37__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_38__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_39__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_40__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_41__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_42__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_43__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_44__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_45__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_46__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_47__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_48__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/Field_49__c.fieldTranslation-meta.xml",
+    "objectTranslations/HQ100_Order__c-en_US/HQ100_Order__c-en_US.objectTranslation-meta.xml"
+   ]
+  },
+  {
+   "type": "GlobalValueSetTranslation",
+   "fullName": "BillingFrequency-de",
+   "lastModifiedDate": "2026-11-17T06:57:24.356Z",
+   "files": [
+    "globalValueSetTranslations/BillingFrequency-de.globalValueSetTranslation-meta.xml"
+   ]
+  },
+  {
+   "type": "StandardValueSetTranslation",
+   "fullName": "AddressCountryCode-da",
+   "lastModifiedDate": "2026-11-17T06:57:24.367Z",
+   "files": [
+    "standardValueSetTranslations/AddressCountryCode-da.standardValueSetTranslation-meta.xml"
+   ]
+  },
+  {
+   "type": "DataWeaveResource",
+   "fullName": "HQ193Gh_Transform",
+   "lastModifiedDate": "2026-11-09T10:00:53.000Z",
+   "files": [
+    "dw/HQ193Gh_Transform.dwl",
+    "dw/HQ193Gh_Transform.dwl-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ100_Svc_01",
+   "lastModifiedDate": "2026-11-17T03:15:15.000Z",
+   "files": [
+    "classes/HQ100_Svc_01.cls",
+    "classes/HQ100_Svc_01.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexTrigger",
+   "fullName": "HQ191YTrigger",
+   "lastModifiedDate": "2026-11-09T00:40:49.000Z",
+   "files": [
+    "triggers/HQ191YTrigger.trigger",
+    "triggers/HQ191YTrigger.trigger-meta.xml"
+   ]
+  },
+  {
+   "type": "OauthCustomScope",
+   "fullName": "HQ193Gh_Scope",
+   "lastModifiedDate": "2026-11-09T10:00:55.000Z",
+   "files": [
+    "oauthcustomscopes/HQ193Gh_Scope.oauthcustomscope-meta.xml"
+   ]
+  },
+  {
+   "type": "OauthTokenExchangeHandler",
+   "fullName": "HQ193Gh_Exchange",
+   "lastModifiedDate": "2026-11-09T10:00:55.000Z",
+   "files": [
+    "oauthtokenexchangehandlers/HQ193Gh_Exchange.oauthtokenexchangehandler-meta.xml"
+   ]
+  },
+  {
+   "type": "MatchingRules",
+   "fullName": "Account",
+   "lastModifiedDate": "2026-11-17T06:57:24.435Z",
+   "files": [
+    "matchingRules/Account.matchingRule-meta.xml"
+   ]
+  },
+  {
+   "type": "SharingRules",
+   "fullName": "HQ100_Order__c",
+   "lastModifiedDate": "2026-11-17T03:15:16.000Z",
+   "files": [
+    "sharingRules/HQ100_Order__c.sharingRules-meta.xml"
+   ]
+  },
+  {
+   "type": "PlatformEventChannelMember",
+   "fullName": "HQ192Gh_Chn_chn_HQ192Gh_Signal_e",
+   "lastModifiedDate": "2026-11-09T06:18:23.000Z",
+   "files": [
+    "platformEventChannelMembers/HQ192Gh_Chn_chn_HQ192Gh_Signal_e.platformEventChannelMember-meta.xml"
+   ]
+  },
+  {
+   "type": "BrandingSet",
+   "fullName": "HQ192Gh_Brand",
+   "lastModifiedDate": "2026-11-09T06:18:23.000Z",
+   "files": [
+    "brandingSets/HQ192Gh_Brand.brandingSet-meta.xml"
+   ]
+  },
+  {
+   "type": "ManagedContentType",
+   "fullName": "HQ194Gh_Type",
+   "lastModifiedDate": "2026-11-09T10:53:43.000Z",
+   "files": [
+    "managedContentTypes/HQ194Gh_Type.managedContentType-meta.xml"
+   ]
+  },
+  {
+   "type": "GenAiPromptTemplate",
+   "fullName": "HQ193Gh_Prompt",
+   "lastModifiedDate": "2026-11-09T10:04:43.000Z",
+   "files": [
+    "genAiPromptTemplates/HQ193Gh_Prompt.genAiPromptTemplate-meta.xml"
+   ]
+  },
+  {
+   "type": "DigitalExperienceBundle",
+   "fullName": "enablement/sfdcEnablement_EnablementWorkspace",
+   "lastModifiedDate": "2026-08-25T22:46:40.000Z",
+   "files": [
+    "digitalExperiences/enablement/sfdcEnablement_EnablementWorkspace/sfdcEnablement_EnablementWorkspace.digitalExperience-meta.xml"
+   ]
+  },
+  {
+   "type": "DigitalExperience",
+   "fullName": "enablement/sfdcEnablement_EnablementWorkspace.sfdc_cms__languageSettings/languages",
+   "lastModifiedDate": null,
+   "files": [
+    "digitalExperiences/enablement/sfdcEnablement_EnablementWorkspace/sfdc_cms__languageSettings/languages/_meta.json",
+    "digitalExperiences/enablement/sfdcEnablement_EnablementWorkspace/sfdc_cms__languageSettings/languages/content.json"
+   ]
+  },
+  {
+   "type": "FlowCategory",
+   "fullName": "HQ193Gh_Cat",
+   "lastModifiedDate": "2026-11-09T10:04:43.000Z",
+   "files": [
+    "flowCategories/HQ193Gh_Cat.flowCategory-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningExperienceTheme",
+   "fullName": "HQ192Gh_Theme",
+   "lastModifiedDate": "2026-11-09T06:18:24.000Z",
+   "files": [
+    "lightningExperienceThemes/HQ192Gh_Theme.lightningExperienceTheme-meta.xml"
+   ]
+  },
+  {
+   "type": "Prompt",
+   "fullName": "HQ194Gh_Tip",
+   "lastModifiedDate": "2026-11-09T10:53:43.000Z",
+   "files": [
+    "prompts/HQ194Gh_Tip.prompt-meta.xml"
+   ]
+  },
+  {
+   "type": "GenAiFunction",
+   "fullName": "HQ193Gh_Greet",
+   "lastModifiedDate": "2026-11-10T02:53:16.000Z",
+   "files": [
+    "genAiFunctions/HQ193Gh_Greet/HQ193Gh_Greet.genAiFunction-meta.xml",
+    "genAiFunctions/HQ193Gh_Greet/input/schema.json",
+    "genAiFunctions/HQ193Gh_Greet/output/schema.json"
+   ]
+  },
+  {
+   "type": "GenAiPlugin",
+   "fullName": "HQ193Gh_Topic",
+   "lastModifiedDate": "2026-11-10T02:53:17.000Z",
+   "files": [
+    "genAiPlugins/HQ193Gh_Topic.genAiPlugin-meta.xml"
+   ]
+  },
+  {
+   "type": "GenAiPlannerBundle",
+   "fullName": "HQ193Gh_Agent",
+   "lastModifiedDate": "2026-11-10T02:53:17.000Z",
+   "files": [
+    "genAiPlannerBundles/HQ193Gh_Agent/HQ193Gh_Agent.genAiPlannerBundle"
+   ]
+  },
+  {
+   "type": "SynonymDictionary",
+   "fullName": "HQ194Gh_Syn",
+   "lastModifiedDate": "2026-11-09T10:53:43.000Z",
+   "files": [
+    "synonymDictionaries/HQ194Gh_Syn.synonymDictionary-meta.xml"
+   ]
+  },
+  {
+   "type": "PathAssistant",
+   "fullName": "HQ191_Lead_Path",
+   "lastModifiedDate": "2026-11-08T22:40:07.000Z",
+   "files": [
+    "pathAssistants/HQ191_Lead_Path.pathAssistant-meta.xml"
+   ]
+  },
+  {
+   "type": "AnimationRule",
+   "fullName": "HQ193_Anim",
+   "lastModifiedDate": "2026-11-09T10:17:32.000Z",
+   "files": [
+    "animationRules/HQ193_Anim.animationRule-meta.xml"
+   ]
+  },
+  {
+   "type": "PlatformCachePartition",
+   "fullName": "HQ193Cache",
+   "lastModifiedDate": "2026-11-09T10:01:18.000Z",
+   "files": [
+    "cachePartitions/HQ193Cache.cachePartition-meta.xml"
+   ]
+  },
+  {
+   "type": "TopicsForObjects",
+   "fullName": "HQ100_Order__c",
+   "lastModifiedDate": "2026-11-17T06:57:26.481Z",
+   "files": [
+    "topicsForObjects/HQ100_Order__c.topicsForObjects-meta.xml"
+   ]
+  },
+  {
+   "type": "FieldRestrictionRule",
+   "fullName": "HQ194Gh_FieldRule",
+   "lastModifiedDate": "2026-11-09T10:53:43.000Z",
+   "files": [
+    "fieldRestrictionRules/HQ194Gh_FieldRule.rule-meta.xml"
+   ]
+  },
+  {
+   "type": "RecommendationStrategy",
+   "fullName": "HQ193Gh_Strategy",
+   "lastModifiedDate": "2026-11-09T10:04:44.000Z",
+   "files": [
+    "recommendationStrategies/HQ193Gh_Strategy.recommendationStrategy-meta.xml"
+   ]
+  },
+  {
+   "type": "ActionLauncherItemDef",
+   "fullName": "HQ194Gh_Launch",
+   "lastModifiedDate": "2026-11-09T10:53:43.000Z",
+   "files": [
+    "ActionLauncherItemDef/HQ194Gh_Launch.actionLauncherItemDef-meta.xml"
+   ]
+  },
+  {
+   "type": "RecordActionDeployment",
+   "fullName": "HQ192Gh_Actions",
+   "lastModifiedDate": "2026-11-09T06:18:24.000Z",
+   "files": [
+    "recordActionDeployments/HQ192Gh_Actions.deployment-meta.xml"
+   ]
+  },
+  {
+   "type": "PlatformEventSubscriberConfig",
+   "fullName": "HQ192GhSignalConfig",
+   "lastModifiedDate": "2026-11-09T06:18:24.000Z",
+   "files": [
+    "PlatformEventSubscriberConfigs/HQ192GhSignalConfig.platformEventSubscriberConfig-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomLabels",
+   "fullName": "CustomLabels",
+   "lastModifiedDate": "2026-11-17T06:57:20.590Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqProbeLwc/hqProbeLwc.html",
+   "lastModifiedDate": "2026-10-21T22:03:24.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hqProbeLwc/hqProbeLwc.js",
+   "lastModifiedDate": "2026-10-21T22:03:24.000Z",
+   "files": []
+  },
+  {
+   "type": "DigitalExperienceBundle",
+   "fullName": "enablement/sfdcEnablement_EnablementWorkspace/sfdc_cms__languageSettings/languages/_meta",
+   "lastModifiedDate": "2026-08-25T22:46:40.000Z",
+   "files": []
+  },
+  {
+   "type": "DigitalExperienceBundle",
+   "fullName": "enablement/sfdcEnablement_EnablementWorkspace/sfdc_cms__languageSettings/languages/content",
+   "lastModifiedDate": "2026-08-25T22:46:40.000Z",
+   "files": []
+  }
+ ]
+}

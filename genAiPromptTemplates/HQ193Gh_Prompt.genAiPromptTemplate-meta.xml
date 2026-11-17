@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPromptTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>HQ193Gh_Prompt</developerName>
+    <masterLabel>HQ193Gh Prompt</masterLabel>
+    <templateVersions>
+        <content>Write one friendly sentence welcoming a new colleague.</content>
+        <primaryModel>sfdc_ai__DefaultOpenAIGPT4OmniMini</primaryModel>
+        <status>Published</status>
+        <versionIdentifier>7jLxfLYel96cOwLQbBGYtMoQUpq9zpjRXEOBPkr9q3Y=_1</versionIdentifier>
+    </templateVersions>
+    <type>einstein_gpt__flex</type>
+    <visibility>Global</visibility>
+</GenAiPromptTemplate>

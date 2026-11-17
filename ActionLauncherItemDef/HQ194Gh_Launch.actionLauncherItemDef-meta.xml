@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionLauncherItemDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <identifier>c:hq194ghLaunch</identifier>
+    <itemActionType>LWC</itemActionType>
+    <itemCategory>dbBased</itemCategory>
+    <itemLanguage>en_US</itemLanguage>
+    <masterLabel>HQ194Gh Launch</masterLabel>
+    <subType>Standard</subType>
+    <type>Standard</type>
+    <versionNumber>1</versionNumber>
+</ActionLauncherItemDef>

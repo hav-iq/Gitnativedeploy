@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldUpdates>
+        <fullName>HQ189_Set_Note</fullName>
+        <description>HAV-IQ 1.89 GitHub test (OI-598). Safe to delete after testing.</description>
+        <field>Note__c</field>
+        <formula>&quot;Flagged by HQ189 rule&quot;</formula>
+        <name>HQ189 Set Note</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>HQ191_Update</fullName>
+        <description>Test fixture for the 1.91 type round.</description>
+        <field>Name</field>
+        <formula>Name &amp; &apos; (hq191)&apos;</formula>
+        <name>HQ191 Update</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <rules>
+        <fullName>HQ189_Flag_Rule</fullName>
+        <actions>
+            <name>HQ189_Set_Note</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>true</active>
+        <criteriaItems>
+            <field>HQ189_Gh_Test__c.Name</field>
+            <operation>contains</operation>
+            <value>HQ189</value>
+        </criteriaItems>
+        <description>HAV-IQ 1.89 GitHub test (OI-598). Safe to delete after testing.</description>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+    <rules>
+        <fullName>HQ191_Rule</fullName>
+        <actions>
+            <name>HQ191_Update</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>false</active>
+        <description>Test fixture for the 1.91 type round.</description>
+        <formula>false</formula>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+</Workflow>
