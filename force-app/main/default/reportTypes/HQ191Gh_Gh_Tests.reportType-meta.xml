@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <baseObject>HQ189_Gh_Test__c</baseObject>
+    <category>other</category>
+    <deployed>true</deployed>
+    <description>Test fixture for the 1.91 type round.</description>
+    <label>HQ191Gh Gh Tests</label>
+    <sections>
+        <columns>
+            <checkedByDefault>true</checkedByDefault>
+            <field>Name</field>
+            <table>HQ189_Gh_Test__c</table>
+        </columns>
+        <masterLabel>Gh Tests</masterLabel>
+    </sections>
+</ReportType>

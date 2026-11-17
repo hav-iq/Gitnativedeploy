@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Test fixture for the 1.91 type round.</description>
+    <isLicensed>false</isLicensed>
+    <label>HQ191Gh Perm</label>
+</CustomPermission>

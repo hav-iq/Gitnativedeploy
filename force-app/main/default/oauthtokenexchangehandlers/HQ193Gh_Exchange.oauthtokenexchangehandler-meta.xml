@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OauthTokenExchangeHandler xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Type round fixture</description>
+    <developerName>HQ193Gh_Exchange</developerName>
+    <isAccessTokenSupported>true</isAccessTokenSupported>
+    <isEnabled>false</isEnabled>
+    <isIdTokenSupported>false</isIdTokenSupported>
+    <isJwtSupported>false</isJwtSupported>
+    <isRefreshTokenSupported>false</isRefreshTokenSupported>
+    <isSaml2Supported>false</isSaml2Supported>
+    <isUserCreationAllowed>false</isUserCreationAllowed>
+    <masterLabel>HQ193Gh Exchange</masterLabel>
+    <tokenHandlerApex>HQ193GhExchange</tokenHandlerApex>
+</OauthTokenExchangeHandler>

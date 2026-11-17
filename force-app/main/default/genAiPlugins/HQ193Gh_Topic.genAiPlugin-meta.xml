@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlugin xmlns="http://soap.sforce.com/2006/04/metadata">
+    <canEscalate>false</canEscalate>
+    <description>Greets people.</description>
+    <developerName>HQ193Gh_Topic</developerName>
+    <genAiFunctions>
+        <functionName>HQ193Gh_Greet</functionName>
+    </genAiFunctions>
+    <language>en_US</language>
+    <masterLabel>HQ193Gh Topic</masterLabel>
+    <pluginType>Topic</pluginType>
+    <scope>Your job is to greet people by name.</scope>
+</GenAiPlugin>

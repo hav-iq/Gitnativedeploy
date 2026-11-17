@@ -1,0 +1,3 @@
+<apex:page >
+    <p>ZY6 fixture: CSRF protection and the description survive the commit.</p>
+</apex:page>
