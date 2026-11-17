@@ -1,0 +1,23 @@
+{
+ "deployment": "a06C400000Jp7R8IAJ",
+ "components": [
+  {
+   "type": "ApexClass",
+   "fullName": "HQGN_Probe",
+   "lastModifiedDate": "2026-11-17T01:33:21.000Z",
+   "files": [
+    "classes/HQGN_Probe.cls",
+    "classes/HQGN_Probe.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQGN_ProbeTest",
+   "lastModifiedDate": "2026-11-17T01:33:21.000Z",
+   "files": [
+    "classes/HQGN_ProbeTest.cls",
+    "classes/HQGN_ProbeTest.cls-meta.xml"
+   ]
+  }
+ ]
+}
