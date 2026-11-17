@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SynonymDictionary xmlns="http://soap.sforce.com/2006/04/metadata">
+    <groups>
+        <languages>en_US</languages>
+        <terms>hq194ghcar</terms>
+        <terms>hq194ghauto</terms>
+    </groups>
+    <label>HQ194Gh Syn</label>
+</SynonymDictionary>

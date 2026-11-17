@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Test fixture for the 1.91 type round.</description>
+    <isExposed>false</isExposed>
+    <lightningMessageFields>
+        <description>Payload</description>
+        <fieldName>note</fieldName>
+    </lightningMessageFields>
+    <masterLabel>HQ191 Msg</masterLabel>
+</LightningMessageChannel>

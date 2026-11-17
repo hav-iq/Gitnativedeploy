@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntitlementTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isPerIncident>false</isPerIncident>
+    <term>12</term>
+    <type>Phone Support</type>
+</EntitlementTemplate>

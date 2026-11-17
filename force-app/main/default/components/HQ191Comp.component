@@ -1,0 +1,3 @@
+<apex:component >
+    <p>HQ191 component: test fixture for the 1.91 metadata-type round.</p>
+</apex:component>
