@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalServiceRegistration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Type round 1.91 fixture.</description>
+    <label>HQ193Gh Svc</label>
+    <namedCredentialReference>HQ193Gh_NC</namedCredentialReference>
+    <operations>
+        <active>true</active>
+        <name>ping</name>
+    </operations>
+    <registrationProviderType>Custom</registrationProviderType>
+    <schema>{&quot;openapi&quot;: &quot;3.0.0&quot;, &quot;info&quot;: {&quot;title&quot;: &quot;HQ193Gh API&quot;, &quot;version&quot;: &quot;1.0&quot;}, &quot;servers&quot;: [{&quot;url&quot;: &quot;https://example.com&quot;}], &quot;paths&quot;: {&quot;/ping&quot;: {&quot;get&quot;: {&quot;operationId&quot;: &quot;ping&quot;, &quot;responses&quot;: {&quot;200&quot;: {&quot;description&quot;: &quot;ok&quot;, &quot;content&quot;: {&quot;application/json&quot;: {&quot;schema&quot;: {&quot;type&quot;: &quot;object&quot;, &quot;properties&quot;: {&quot;ok&quot;: {&quot;type&quot;: &quot;boolean&quot;}}}}}}}}}}}</schema>
+    <schemaType>OpenApi3</schemaType>
+    <schemaUploadFileExtension>json</schemaUploadFileExtension>
+    <schemaUploadFileName>hq193gh.json</schemaUploadFileName>
+    <serviceBinding>{&quot;host&quot;:&quot;example.com&quot;,&quot;basePath&quot;:&quot;&quot;,&quot;allowedSchemes&quot;:[&quot;HTTPS&quot;],&quot;requestMediaTypes&quot;:[],&quot;responseMediaTypes&quot;:[],&quot;compatibleMediaTypes&quot;:{},&quot;integrationFlags&quot;:null,&quot;extensions&quot;:{}}</serviceBinding>
+    <status>Complete</status>
+    <systemVersion>5</systemVersion>
+</ExternalServiceRegistration>
