@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>62.0</apiVersion>
+    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
+    <assignments>
+        <name>Set_Greeting</name>
+        <label>Set Greeting</label>
+        <locationX>176</locationX>
+        <locationY>158</locationY>
+        <assignmentItems>
+            <assignToReference>greeting</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <stringValue>ZW6 GitLab welcome</stringValue>
+            </value>
+        </assignmentItems>
+    </assignments>
+    <description>Test fixture for the 1.90 live rollback GitLab round (torture ZW6).</description>
+    <interviewLabel>HQ190 Gl Welcome {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>HQ190 Gl Welcome</label>
+    <processType>AutoLaunchedFlow</processType>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Set_Greeting</targetReference>
+        </connector>
+    </start>
+    <status>Obsolete</status>
+    <variables>
+        <name>greeting</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>true</isOutput>
+    </variables>
+</Flow>
