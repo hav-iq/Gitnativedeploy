@@ -1,7 +1,0 @@
-{
-  "commitMessage" : "Deploy: dev12 → qa12 [haviq] [haviq-dep:a06C400000JqMnvIAF]",
-  "decisions" : { },
-  "rules" : [ ],
-  "targetBranch" : "qa12",
-  "workItemBranch" : "feature/gc-label3-gh"
-}
