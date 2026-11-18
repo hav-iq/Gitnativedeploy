@@ -1,0 +1,1525 @@
+{
+ "deployment": "a06C400000JqDEMIA3",
+ "components": [
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard16",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard16/hq194sCard16.html",
+    "lwc/hq194sCard16/hq194sCard16.js",
+    "lwc/hq194sCard16/hq194sCard16.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard15",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard15/hq194sCard15.html",
+    "lwc/hq194sCard15/hq194sCard15.js",
+    "lwc/hq194sCard15/hq194sCard15.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard14",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard14/hq194sCard14.html",
+    "lwc/hq194sCard14/hq194sCard14.js",
+    "lwc/hq194sCard14/hq194sCard14.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard13",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard13/hq194sCard13.html",
+    "lwc/hq194sCard13/hq194sCard13.js",
+    "lwc/hq194sCard13/hq194sCard13.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard12",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard12/hq194sCard12.html",
+    "lwc/hq194sCard12/hq194sCard12.js",
+    "lwc/hq194sCard12/hq194sCard12.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard11",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard11/hq194sCard11.html",
+    "lwc/hq194sCard11/hq194sCard11.js",
+    "lwc/hq194sCard11/hq194sCard11.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard10",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard10/hq194sCard10.html",
+    "lwc/hq194sCard10/hq194sCard10.js",
+    "lwc/hq194sCard10/hq194sCard10.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard09",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard09/hq194sCard09.html",
+    "lwc/hq194sCard09/hq194sCard09.js",
+    "lwc/hq194sCard09/hq194sCard09.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard20",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard20/hq194sCard20.html",
+    "lwc/hq194sCard20/hq194sCard20.js",
+    "lwc/hq194sCard20/hq194sCard20.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard19",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard19/hq194sCard19.html",
+    "lwc/hq194sCard19/hq194sCard19.js",
+    "lwc/hq194sCard19/hq194sCard19.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard18",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard18/hq194sCard18.html",
+    "lwc/hq194sCard18/hq194sCard18.js",
+    "lwc/hq194sCard18/hq194sCard18.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard17",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard17/hq194sCard17.html",
+    "lwc/hq194sCard17/hq194sCard17.js",
+    "lwc/hq194sCard17/hq194sCard17.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard03",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard03/hq194sCard03.html",
+    "lwc/hq194sCard03/hq194sCard03.js",
+    "lwc/hq194sCard03/hq194sCard03.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard02",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard02/hq194sCard02.html",
+    "lwc/hq194sCard02/hq194sCard02.js",
+    "lwc/hq194sCard02/hq194sCard02.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard01",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard01/hq194sCard01.html",
+    "lwc/hq194sCard01/hq194sCard01.js",
+    "lwc/hq194sCard01/hq194sCard01.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard08",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard08/hq194sCard08.html",
+    "lwc/hq194sCard08/hq194sCard08.js",
+    "lwc/hq194sCard08/hq194sCard08.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard07",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard07/hq194sCard07.html",
+    "lwc/hq194sCard07/hq194sCard07.js",
+    "lwc/hq194sCard07/hq194sCard07.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard06",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard06/hq194sCard06.html",
+    "lwc/hq194sCard06/hq194sCard06.js",
+    "lwc/hq194sCard06/hq194sCard06.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard05",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard05/hq194sCard05.html",
+    "lwc/hq194sCard05/hq194sCard05.js",
+    "lwc/hq194sCard05/hq194sCard05.js-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard04",
+   "lastModifiedDate": null,
+   "files": [
+    "lwc/hq194sCard04/hq194sCard04.html",
+    "lwc/hq194sCard04/hq194sCard04.js",
+    "lwc/hq194sCard04/hq194sCard04.js-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page15",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page15.page",
+    "pages/HQ194S_Page15.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page14",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page14.page",
+    "pages/HQ194S_Page14.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page19",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page19.page",
+    "pages/HQ194S_Page19.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page18",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page18.page",
+    "pages/HQ194S_Page18.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page17",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page17.page",
+    "pages/HQ194S_Page17.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page16",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page16.page",
+    "pages/HQ194S_Page16.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page20",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page20.page",
+    "pages/HQ194S_Page20.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page01",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page01.page",
+    "pages/HQ194S_Page01.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page05",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page05.page",
+    "pages/HQ194S_Page05.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page04",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page04.page",
+    "pages/HQ194S_Page04.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page03",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page03.page",
+    "pages/HQ194S_Page03.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page02",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page02.page",
+    "pages/HQ194S_Page02.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page09",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page09.page",
+    "pages/HQ194S_Page09.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page08",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page08.page",
+    "pages/HQ194S_Page08.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page07",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page07.page",
+    "pages/HQ194S_Page07.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page06",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page06.page",
+    "pages/HQ194S_Page06.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page13",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page13.page",
+    "pages/HQ194S_Page13.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page12",
+   "lastModifiedDate": "2026-11-17T18:44:16.000Z",
+   "files": [
+    "pages/HQ194S_Page12.page",
+    "pages/HQ194S_Page12.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page11",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page11.page",
+    "pages/HQ194S_Page11.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexPage",
+   "fullName": "HQ194S_Page10",
+   "lastModifiedDate": "2026-11-17T18:44:15.000Z",
+   "files": [
+    "pages/HQ194S_Page10.page",
+    "pages/HQ194S_Page10.page-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc090",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc090.cls",
+    "classes/HQ194S_Svc090.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc091",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc091.cls",
+    "classes/HQ194S_Svc091.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc086",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc086.cls",
+    "classes/HQ194S_Svc086.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc087",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc087.cls",
+    "classes/HQ194S_Svc087.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc088",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc088.cls",
+    "classes/HQ194S_Svc088.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc089",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc089.cls",
+    "classes/HQ194S_Svc089.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc082",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc082.cls",
+    "classes/HQ194S_Svc082.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc083",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc083.cls",
+    "classes/HQ194S_Svc083.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc084",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc084.cls",
+    "classes/HQ194S_Svc084.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc085",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc085.cls",
+    "classes/HQ194S_Svc085.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc078",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc078.cls",
+    "classes/HQ194S_Svc078.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc079",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc079.cls",
+    "classes/HQ194S_Svc079.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc080",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc080.cls",
+    "classes/HQ194S_Svc080.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc081",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc081.cls",
+    "classes/HQ194S_Svc081.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc074",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc074.cls",
+    "classes/HQ194S_Svc074.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc075",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc075.cls",
+    "classes/HQ194S_Svc075.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc076",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc076.cls",
+    "classes/HQ194S_Svc076.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc077",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc077.cls",
+    "classes/HQ194S_Svc077.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc070",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc070.cls",
+    "classes/HQ194S_Svc070.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc071",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc071.cls",
+    "classes/HQ194S_Svc071.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc072",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc072.cls",
+    "classes/HQ194S_Svc072.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc073",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc073.cls",
+    "classes/HQ194S_Svc073.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc066",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc066.cls",
+    "classes/HQ194S_Svc066.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc067",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc067.cls",
+    "classes/HQ194S_Svc067.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc068",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc068.cls",
+    "classes/HQ194S_Svc068.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc069",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc069.cls",
+    "classes/HQ194S_Svc069.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc064",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc064.cls",
+    "classes/HQ194S_Svc064.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc027",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc027.cls",
+    "classes/HQ194S_Svc027.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc065",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc065.cls",
+    "classes/HQ194S_Svc065.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc028",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc028.cls",
+    "classes/HQ194S_Svc028.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc029",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc029.cls",
+    "classes/HQ194S_Svc029.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc060",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc060.cls",
+    "classes/HQ194S_Svc060.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc023",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc023.cls",
+    "classes/HQ194S_Svc023.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc061",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc061.cls",
+    "classes/HQ194S_Svc061.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc024",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc024.cls",
+    "classes/HQ194S_Svc024.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc062",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc062.cls",
+    "classes/HQ194S_Svc062.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc025",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc025.cls",
+    "classes/HQ194S_Svc025.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc063",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc063.cls",
+    "classes/HQ194S_Svc063.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc026",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc026.cls",
+    "classes/HQ194S_Svc026.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc019",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc019.cls",
+    "classes/HQ194S_Svc019.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc056",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc056.cls",
+    "classes/HQ194S_Svc056.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc020",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc020.cls",
+    "classes/HQ194S_Svc020.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc057",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc057.cls",
+    "classes/HQ194S_Svc057.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc021",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc021.cls",
+    "classes/HQ194S_Svc021.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc058",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc058.cls",
+    "classes/HQ194S_Svc058.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc022",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc022.cls",
+    "classes/HQ194S_Svc022.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc059",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc059.cls",
+    "classes/HQ194S_Svc059.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc015",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc015.cls",
+    "classes/HQ194S_Svc015.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc052",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc052.cls",
+    "classes/HQ194S_Svc052.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc016",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc016.cls",
+    "classes/HQ194S_Svc016.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc053",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc053.cls",
+    "classes/HQ194S_Svc053.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc017",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc017.cls",
+    "classes/HQ194S_Svc017.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc054",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc054.cls",
+    "classes/HQ194S_Svc054.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc018",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc018.cls",
+    "classes/HQ194S_Svc018.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc055",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc055.cls",
+    "classes/HQ194S_Svc055.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc011",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc011.cls",
+    "classes/HQ194S_Svc011.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc048",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc048.cls",
+    "classes/HQ194S_Svc048.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc012",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc012.cls",
+    "classes/HQ194S_Svc012.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc049",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc049.cls",
+    "classes/HQ194S_Svc049.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc013",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc013.cls",
+    "classes/HQ194S_Svc013.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc050",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc050.cls",
+    "classes/HQ194S_Svc050.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc014",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc014.cls",
+    "classes/HQ194S_Svc014.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc051",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc051.cls",
+    "classes/HQ194S_Svc051.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc007",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc007.cls",
+    "classes/HQ194S_Svc007.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc044",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc044.cls",
+    "classes/HQ194S_Svc044.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc008",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc008.cls",
+    "classes/HQ194S_Svc008.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc045",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc045.cls",
+    "classes/HQ194S_Svc045.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc009",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc009.cls",
+    "classes/HQ194S_Svc009.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc046",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc046.cls",
+    "classes/HQ194S_Svc046.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc010",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc010.cls",
+    "classes/HQ194S_Svc010.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc047",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc047.cls",
+    "classes/HQ194S_Svc047.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc040",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc040.cls",
+    "classes/HQ194S_Svc040.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc004",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc004.cls",
+    "classes/HQ194S_Svc004.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc041",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc041.cls",
+    "classes/HQ194S_Svc041.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc005",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc005.cls",
+    "classes/HQ194S_Svc005.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc042",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc042.cls",
+    "classes/HQ194S_Svc042.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc006",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc006.cls",
+    "classes/HQ194S_Svc006.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc043",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc043.cls",
+    "classes/HQ194S_Svc043.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc001",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc001.cls",
+    "classes/HQ194S_Svc001.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc039",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc039.cls",
+    "classes/HQ194S_Svc039.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc002",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc002.cls",
+    "classes/HQ194S_Svc002.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc003",
+   "lastModifiedDate": "2026-11-17T18:46:28.000Z",
+   "files": [
+    "classes/HQ194S_Svc003.cls",
+    "classes/HQ194S_Svc003.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc035",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc035.cls",
+    "classes/HQ194S_Svc035.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc036",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc036.cls",
+    "classes/HQ194S_Svc036.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc037",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc037.cls",
+    "classes/HQ194S_Svc037.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc038",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc038.cls",
+    "classes/HQ194S_Svc038.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc031",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc031.cls",
+    "classes/HQ194S_Svc031.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc032",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc032.cls",
+    "classes/HQ194S_Svc032.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc033",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc033.cls",
+    "classes/HQ194S_Svc033.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc034",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc034.cls",
+    "classes/HQ194S_Svc034.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc097",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc097.cls",
+    "classes/HQ194S_Svc097.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc098",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc098.cls",
+    "classes/HQ194S_Svc098.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc099",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc099.cls",
+    "classes/HQ194S_Svc099.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc100",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc100.cls",
+    "classes/HQ194S_Svc100.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc030",
+   "lastModifiedDate": "2026-11-17T18:46:29.000Z",
+   "files": [
+    "classes/HQ194S_Svc030.cls",
+    "classes/HQ194S_Svc030.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc093",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc093.cls",
+    "classes/HQ194S_Svc093.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc094",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc094.cls",
+    "classes/HQ194S_Svc094.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc095",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc095.cls",
+    "classes/HQ194S_Svc095.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc096",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc096.cls",
+    "classes/HQ194S_Svc096.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194S_Svc092",
+   "lastModifiedDate": "2026-11-17T18:46:30.000Z",
+   "files": [
+    "classes/HQ194S_Svc092.cls",
+    "classes/HQ194S_Svc092.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard16/hq194sCard16.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard16/hq194sCard16.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard15/hq194sCard15.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard15/hq194sCard15.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard14/hq194sCard14.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard14/hq194sCard14.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard13/hq194sCard13.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard13/hq194sCard13.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard12/hq194sCard12.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard12/hq194sCard12.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard11/hq194sCard11.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard11/hq194sCard11.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard10/hq194sCard10.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard10/hq194sCard10.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard09/hq194sCard09.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard09/hq194sCard09.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard20/hq194sCard20.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard20/hq194sCard20.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard19/hq194sCard19.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard19/hq194sCard19.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard18/hq194sCard18.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard18/hq194sCard18.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard17/hq194sCard17.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard17/hq194sCard17.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard03/hq194sCard03.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard03/hq194sCard03.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard02/hq194sCard02.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard02/hq194sCard02.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard01/hq194sCard01.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard01/hq194sCard01.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard08/hq194sCard08.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard08/hq194sCard08.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard07/hq194sCard07.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard07/hq194sCard07.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard06/hq194sCard06.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard06/hq194sCard06.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard05/hq194sCard05.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard05/hq194sCard05.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard04/hq194sCard04.html",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  },
+  {
+   "type": "LightningComponentBundle",
+   "fullName": "hq194sCard04/hq194sCard04.js",
+   "lastModifiedDate": "2026-11-17T18:46:11.000Z",
+   "files": []
+  }
+ ]
+}
