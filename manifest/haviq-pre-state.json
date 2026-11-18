@@ -1,0 +1,22 @@
+{
+ "deployment": "a06C400000JqMnvIAF",
+ "components": [
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194X_Edit2",
+   "lastModifiedDate": "2026-11-18T07:34:46.000Z",
+   "files": [
+    "classes/HQ194X_Edit2.cls",
+    "classes/HQ194X_Edit2.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "CustomLabels",
+   "fullName": "CustomLabels",
+   "lastModifiedDate": "2026-11-18T07:53:11.618Z",
+   "files": [
+    "labels/CustomLabels.labels-meta.xml"
+   ]
+  }
+ ]
+}
