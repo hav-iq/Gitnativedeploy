@@ -1,0 +1,41 @@
+{
+ "summary": {
+  "files": 2,
+  "bothChanged": 2,
+  "policyResolved": 0,
+  "decided": 0,
+  "conflicts": 1
+ },
+ "policy": [],
+ "conflicts": [
+  {
+   "path": "force-app/main/default/classes/HQ194X_Edit3.cls",
+   "type": "ApexClass",
+   "kind": "add/add",
+   "engine": "git",
+   "entries": [],
+   "base": null,
+   "source": "97517b2ce038a10409b51d50c635b36bcbc1d0f0",
+   "target": "eef077040888d64c852b2c13c26384a51b1f9d99",
+   "binary": false,
+   "sizes": {
+    "base": null,
+    "source": 278,
+    "target": 279
+   },
+   "sourceChange": {
+    "author": "HAV-IQ CI",
+    "date": "2026-11-18T08:04:59Z",
+    "subject": "Deploy: dev12 \u2192 qa12 [haviq] [haviq-dep:a06C400000JqVb4IAF]"
+   },
+   "targetChange": {
+    "author": "hav-iq",
+    "date": "2026-11-18T09:03:12+01:00",
+    "subject": "Conflict test: a change landed on the target first [skip ci]"
+   }
+  }
+ ],
+ "workItemBranch": "feature/gc-compile-gh",
+ "targetHead": "2bb326fbc52575ffcb4498f8d4a6c24884869692",
+ "sourceHead": "a33fcf433d1d6119a637f8bdfe54a589376f1226"
+}
