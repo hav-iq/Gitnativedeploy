@@ -1,0 +1,10 @@
+{
+  "commitMessage" : "Deploy: dev12 → qa12 [haviq] [haviq-dep:a06C400000JqLv4IAF]",
+  "decisions" : {
+    "force-app/main/default/classes/HQ194X_Edit.cls" : "source",
+    "force-app/main/default/classes/HQ194X_Stale.cls" : "source"
+  },
+  "rules" : [ ],
+  "targetBranch" : "qa12",
+  "workItemBranch" : "feature/gc-duo-gh"
+}
