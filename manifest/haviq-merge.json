@@ -1,9 +1,0 @@
-{
-  "commitMessage" : "Deploy: dev12 → qa12 [haviq] [haviq-dep:a06C400000JqVb4IAF]",
-  "decisions" : {
-    "force-app/main/default/classes/HQ194X_Edit3.cls" : "edited"
-  },
-  "rules" : [ ],
-  "targetBranch" : "qa12",
-  "workItemBranch" : "feature/gc-compile-gh"
-}
