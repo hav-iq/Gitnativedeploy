@@ -1,0 +1,4 @@
+/** HAV-IQ @ 2026: 1.94 fresh scale sample 91. Safe to delete. */
+public with sharing class HQ194S_Svc091 {
+    public static Integer value() { return 91; }
+}
