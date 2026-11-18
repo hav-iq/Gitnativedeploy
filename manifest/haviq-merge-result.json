@@ -1,0 +1,67 @@
+{
+ "summary": {
+  "files": 4,
+  "bothChanged": 4,
+  "policyResolved": 0,
+  "decided": 0,
+  "conflicts": 2
+ },
+ "policy": [],
+ "conflicts": [
+  {
+   "path": "force-app/main/default/classes/HQ194X_Edit.cls",
+   "type": "ApexClass",
+   "kind": "add/add",
+   "engine": "git",
+   "entries": [],
+   "base": null,
+   "source": "7295d3fbcbc2a275b086b58f21e58817a31418e7",
+   "target": "71542b0f0a94a61fed816f10f6156f2d38dff149",
+   "binary": false,
+   "sizes": {
+    "base": null,
+    "source": 268,
+    "target": 269
+   },
+   "sourceChange": {
+    "author": "HAV-IQ CI",
+    "date": "2026-11-18T05:25:52Z",
+    "subject": "Deploy: dev12 \u2192 qa12 [haviq] [haviq-dep:a06C400000JqLv4IAF]"
+   },
+   "targetChange": {
+    "author": "hav-iq",
+    "date": "2026-11-18T06:16:55+01:00",
+    "subject": "Conflict test: a change landed on the target first [skip ci]"
+   }
+  },
+  {
+   "path": "force-app/main/default/classes/HQ194X_Stale.cls",
+   "type": "ApexClass",
+   "kind": "add/add",
+   "engine": "git",
+   "entries": [],
+   "base": null,
+   "source": "0af7941a578efb9198c92d65c0cb1d974412bb91",
+   "target": "581fca54c2c0b7da28fe904d775a6f8045ef5988",
+   "binary": false,
+   "sizes": {
+    "base": null,
+    "source": 178,
+    "target": 179
+   },
+   "sourceChange": {
+    "author": "HAV-IQ CI",
+    "date": "2026-11-18T05:25:52Z",
+    "subject": "Deploy: dev12 \u2192 qa12 [haviq] [haviq-dep:a06C400000JqLv4IAF]"
+   },
+   "targetChange": {
+    "author": "hav-iq",
+    "date": "2026-11-18T06:16:55+01:00",
+    "subject": "Conflict test: a change landed on the target first [skip ci]"
+   }
+  }
+ ],
+ "workItemBranch": "feature/gc-duo-gh",
+ "targetHead": "539f5beef2f3dbb73a7b5bb838618c68bf626214",
+ "sourceHead": "1d69d656824eddffbf9258034bd77c8e5c1983af"
+}
