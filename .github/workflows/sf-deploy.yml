@@ -1655,3 +1655,40 @@ jobs:
             exit 1
           fi
           echo "[haviq] Merge job finished; HAV-IQ reads the outcome from $HQ_BRANCH."
+      - uses: actions/setup-node@v4
+        if: always()
+        with:
+          node-version: '22'
+      - run: npm install -g @salesforce/cli
+        if: always()
+      - name: Notify HAV-IQ
+        if: always()
+        continue-on-error: true
+        env:
+          HQ_STATUS: ${{ job.status == 'success' && 'success' || 'failed' }}
+          HQ_BRANCH: ${{ github.event.client_payload.branch }}
+          HQ_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          HAVIQ_PRIVATE_KEY: ${{ secrets.HAVIQ_PRIVATE_KEY }}
+          HAVIQ_CLIENT_ID: ${{ vars.HAVIQ_CLIENT_ID }}
+          HAVIQ_USERNAME: ${{ vars.HAVIQ_USERNAME }}
+          HAVIQ_URL: ${{ vars.HAVIQ_URL }}
+          SF_WEBHOOK_SECRET: ${{ secrets.SF_WEBHOOK_SECRET }}
+        run: |
+          grep -q "\[haviq-merge\]" /tmp/haviq_msg.txt 2>/dev/null || exit 0
+          echo "$HAVIQ_PRIVATE_KEY" > /tmp/haviq.key
+          HAVIQ_LOGIN_OUT=$(sf org login jwt --client-id "$HAVIQ_CLIENT_ID" --jwt-key-file /tmp/haviq.key --username "$HAVIQ_USERNAME" --instance-url "$HAVIQ_URL" --alias haviq-hub 2>&1) || true
+          SF_TOKEN=$(sf org auth show-access-token --target-org haviq-hub --json 2>/dev/null | python3 -c "import sys,json;d=json.load(sys.stdin);print(d['result']['accessToken'])" 2>/dev/null || echo "")
+          case "$SF_TOKEN" in *[[:space:]]*) SF_TOKEN="" ;; esac
+          if [ -z "$SF_TOKEN" ]; then
+            echo "[haviq] callback SKIPPED — no access token. HAV-IQ will read this"
+            echo "[haviq] run's result itself within a few minutes. The JWT login said:"
+            echo "$HAVIQ_LOGIN_OUT" | head -6 | sed "s/^/[haviq]   /"
+          fi
+          if [ -n "$SF_TOKEN" ]; then
+            DEPID=$(sed -n "s/.*\[haviq-dep:\([a-zA-Z0-9]*\)\].*/\1/p" /tmp/haviq_msg.txt | head -1)
+            BODY="{\"phase\":\"merge\",\"deploymentId\":\"$DEPID\",\"branch\":\"$HQ_BRANCH\",\"status\":\"$HQ_STATUS\",\"ciRunUrl\":\"$HQ_RUN_URL\"}"
+            HAVIQ_HTTP=$(curl -s -o /tmp/haviq_cb.out -w "%{http_code}" -X POST "$HAVIQ_URL/services/apexrest/haviq/pipeline/webhook" -H "Authorization: Bearer $SF_TOKEN" -H "Content-Type: application/json" -H "x-sf-devops-secret: $SF_WEBHOOK_SECRET" -d "$BODY" || echo "000")
+            echo "[haviq] merge callback HTTP $HAVIQ_HTTP"
+            rm -f /tmp/haviq_cb.out
+          fi
+          rm -f /tmp/haviq.key
