@@ -1542,7 +1542,11 @@ jobs:
           tree = set(out.stdout.splitlines())
           take = set()
           missing = []
+          inline = []
           for c in req["components"]:
+              if c.get("inline"):
+                  inline.append(c)
+                  continue
               need = [c["primary"]] + c.get("required", [])
               gone = [p for p in need if p not in tree]
               if gone:
@@ -1562,6 +1566,42 @@ jobs:
           files = sorted(take)
           for i in range(0, len(files), 200):
               subprocess.run(["git", "checkout", src, "--"] + files[i:i + 200], check=True)
+          import os, re
+          def find(xml, el, member):
+              for m in re.finditer(r"<" + el + r">(.*?)</" + el + r">", xml, re.S):
+                  f = re.search(r"<fullName>(.*?)</fullName>", m.group(1), re.S)
+                  if f and f.group(1).strip() == member:
+                      return m
+              return None
+          for c in inline:
+              i = c["inline"]; path = c["primary"]
+              if path in take:
+                  continue
+              srcxml = subprocess.run(["git", "show", src + ":" + path], capture_output=True, text=True).stdout
+              got = find(srcxml, i["element"], i["member"]) if srcxml else None
+              if not got:
+                  missing.append(c["label"] + " (expected in " + path + ")")
+                  continue
+              dst = open(path).read() if os.path.exists(path) else ('<?xml version="1.0" encoding="UTF-8"?>\n<' + i["root"] + ' xmlns="http://soap.sforce.com/2006/04/metadata">\n</' + i["root"] + '>\n')
+              old = find(dst, i["element"], i["member"])
+              if old:
+                  dst = dst[:old.start()] + got.group(0) + dst[old.end():]
+              else:
+                  same = list(re.finditer(r"</" + i["element"] + r">", dst))
+                  at = same[-1].end() if same else dst.rindex("</" + i["root"] + ">")
+                  lead = "\n    " if same else "    "
+                  tail = "" if same else "\n"
+                  dst = dst[:at] + lead + got.group(0) + tail + dst[at:]
+              os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+              open(path, "w").write(dst)
+              subprocess.run(["git", "add", "--", path], check=True)
+              files.append(path)
+          if missing:
+              open("/tmp/haviq_missing.txt", "w").write("; ".join(missing))
+              print("[haviq] These entries are not on " + req["sourceBranch"] + ", so nothing was pushed:")
+              for m in missing:
+                  print("[haviq]   " + m)
+              sys.exit(1)
           print("[haviq] Copied " + str(len(files)) + " file(s) for " + str(len(req["components"])) + " component(s) from " + req["sourceBranch"] + " with git.")
           PY
           git rm -q --ignore-unmatch manifest/haviq-assemble.json
