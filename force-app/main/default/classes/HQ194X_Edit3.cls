@@ -4,6 +4,7 @@ public with sharing class HQ194X_Edit3 {
 
     public static String side() {
         return 'target';
+        return 'source';
     }
 
     public static Integer tail() { return 3; }
