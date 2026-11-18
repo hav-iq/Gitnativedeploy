@@ -1,0 +1,19 @@
+{
+  "components" : [ {
+    "inline" : {
+      "member" : "HQ194X_SrcLabel",
+      "element" : "labels",
+      "root" : "CustomLabels"
+    },
+    "prefixes" : [ ],
+    "required" : [ ],
+    "primary" : "force-app/main/default/labels/CustomLabels.labels-meta.xml",
+    "label" : "CustomLabel:HQ194X_SrcLabel"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HQ194X_Edit2.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HQ194X_Edit2.cls",
+    "label" : "ApexClass:HQ194X_Edit2"
+  } ],
+  "sourceBranch" : "dev12"
+}
