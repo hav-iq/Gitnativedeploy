@@ -1,4 +1,4 @@
-/** HAV-IQ @ 2026: 1.94 fresh scale sample 26. Safe to delete. */
+/** HAV-IQ @ 2026: 1.94 fresh scale sample 26, version 2 (conflict test). Safe to delete. */
 public with sharing class HQ194S_Svc026 {
-    public static Integer value() { return 26; }
+    public static Integer value() { return 26 * 2; }
 }
