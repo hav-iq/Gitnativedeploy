@@ -1,0 +1,23 @@
+{
+ "deployment": "a06C400000JqLv4IAF",
+ "components": [
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194X_Edit",
+   "lastModifiedDate": "2026-11-18T05:41:01.000Z",
+   "files": [
+    "classes/HQ194X_Edit.cls",
+    "classes/HQ194X_Edit.cls-meta.xml"
+   ]
+  },
+  {
+   "type": "ApexClass",
+   "fullName": "HQ194X_Stale",
+   "lastModifiedDate": "2026-11-18T05:41:01.000Z",
+   "files": [
+    "classes/HQ194X_Stale.cls",
+    "classes/HQ194X_Stale.cls-meta.xml"
+   ]
+  }
+ ]
+}
