@@ -1,0 +1,13 @@
+{
+ "deployment": "a06C400000JqP4IIAV",
+ "components": [
+  {
+   "type": "CustomLabels",
+   "fullName": "CustomLabels",
+   "lastModifiedDate": "2026-11-18T07:27:52.672Z",
+   "files": [
+    "labels/CustomLabels.labels-meta.xml"
+   ]
+  }
+ ]
+}
