@@ -21,4 +21,11 @@
         <shortDescription>HQ Sample Label</shortDescription>
         <value>HAV-IQ test sample</value>
     </labels>
+    <labels>
+        <fullName>HQ194X_SrcLabel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HQ194X source label</shortDescription>
+        <value>Added on the source side</value>
+    </labels>
 </CustomLabels>
