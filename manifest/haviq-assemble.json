@@ -1,0 +1,14 @@
+{
+  "components" : [ {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HQ194X_Edit.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HQ194X_Edit.cls",
+    "label" : "ApexClass:HQ194X_Edit"
+  }, {
+    "prefixes" : [ ],
+    "required" : [ "force-app/main/default/classes/HQ194X_Stale.cls-meta.xml" ],
+    "primary" : "force-app/main/default/classes/HQ194X_Stale.cls",
+    "label" : "ApexClass:HQ194X_Stale"
+  } ],
+  "sourceBranch" : "dev12"
+}
